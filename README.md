@@ -1,2 +1,2 @@
 # DataAnalysis
-Data Visualization
+Data Analysis and Visualization
